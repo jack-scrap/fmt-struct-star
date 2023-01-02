@@ -1,6 +1,6 @@
 CC=gcc
 
-EXEC=a.out
+EXEC=star
 
 BUILDDIR=build
 
