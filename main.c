@@ -40,7 +40,7 @@ int main(int argc, char* argv[]) {
 	}
 	str[no] = '\0';
 
-	printf("%s\n", str);
+	printf("%s", str);
 
 	return 0;
 }
